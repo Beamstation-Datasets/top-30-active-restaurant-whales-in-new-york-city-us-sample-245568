@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Whales in New York City, US",
-  "export_job_id": "2b346314-8459-4aca-9e5c-4510bdcd10ad",
+  "export_job_id": "6c7a73a0-4d01-4125-ae6a-58f916b46046",
   "github_org": "Beamstation-Datasets",
   "id_short": 245568,
   "location_name": "New York City",
@@ -14,9 +14,9 @@
   "repo_name": "top-30-active-restaurant-whales-in-new-york-city-us-sample-245568",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/245568/beamstation_245568_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 661,
-  "sample_sha256": "531dfd27cabe6af10012d130179f61c40a2ff7f56d38fd755b2b1a02aadb0081",
-  "sample_size_bytes": 2734974,
-  "total_records": 6618,
-  "updated_at": "2026-04-15T09:56:16.092490+00:00"
+  "sample_records": 784,
+  "sample_sha256": "22505da3b0d2f0a881d05efcef8092c2cedd76bb790a7891a1c5574b4d90d2a4",
+  "sample_size_bytes": 3222250,
+  "total_records": 7845,
+  "updated_at": "2026-04-22T18:35:44.519501+00:00"
 }
