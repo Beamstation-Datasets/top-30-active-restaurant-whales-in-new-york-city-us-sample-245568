@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6c7a73a0-4d01-4125-ae6a-58f916b46046",
+  "export_job_id": "56b94b21-1b72-43e7-a661-8a02e742b26f",
   "id_short": 245568,
-  "published_at": "2026-04-22T19:25:51Z",
+  "published_at": "2026-04-29T19:22:53Z",
   "repo_name": "top-30-active-restaurant-whales-in-new-york-city-us-sample-245568",
   "sample_asset_name": "beamstation_245568_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/245568/beamstation_245568_restaurants-us-ny_SAMPLE_DIST.csv",
-  "sample_records": 784,
-  "sample_sha256": "22505da3b0d2f0a881d05efcef8092c2cedd76bb790a7891a1c5574b4d90d2a4",
-  "sample_size_bytes": 3222250,
-  "total_records": 7845
+  "sample_records": 67,
+  "sample_sha256": "e85a8355f7b930e5d4ec6cebadfa7beb2c11a135963f0c1cc6c354ac61048267",
+  "sample_size_bytes": 281453,
+  "total_records": 672
 }
